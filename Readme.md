@@ -20,7 +20,7 @@ Usage: main.py [-h] [-v]
 -v ,--version 顯示腳本版本 show program's version number and exit
 
 ## 截圖 ScreenShot
-<img src = "img/Workspace 1_393.png" width ="500px"/>
+<img src = "img/Workspace 1_393.png" width ="600px"/>
 點擊看大圖
 ## 關於我們 About Us
 
