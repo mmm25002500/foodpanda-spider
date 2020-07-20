@@ -1,5 +1,18 @@
 # -*- coding: utf-8 -*-
-import bs4 ,requests ,time,os
+import bs4 ,requests ,time ,os ,argparse ,sys
+
+#幫助 python2 main.py --help
+parser=argparse.ArgumentParser(
+    description='''(C) Copyright Aishen-Shanling Team 2020(C) Tershi 2020
+		This is a Foodpanda-Spider which made by Xia-Tershi(夏特稀)
+		You can Use it for checking new store or menu that has "prices" on that 
+		''',
+    epilog="""You can edit the file and sell the script to earn money. Share it to your all friends.
+		Open Source Python Script 開源Python腳本
+		""")
+parser.add_argument('-v','--version' ,action='version' , version = 'Tershi Foodpanda Version 1.5')
+args=parser.parse_args()
+
 
 CityURL= 'https://www.foodpanda.com.tw'
 result = requests.get(CityURL)
