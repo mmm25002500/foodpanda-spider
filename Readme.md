@@ -6,11 +6,18 @@
 ## 安裝方式 Installation
 
 ```sudo apt update``` <br>
-```sudo apt upgrade -y```<br>
+```sudo apt install python python2 python3```<br>
 ```sudo pip install bs4 requests```<br>
 ```git clone https://github.com/mmm25002500/foodpanda-spider/```<br>
 ```cd foodpanda-spider/```<br>
 ```python main.py```
+## 用法 Usage
+
+Usage: main.py [-h] [-v]
+
+-h, --help 顯示幫助頁面 show this help message and exit
+
+-v ,--version 顯示腳本版本 show program's version number and exit
 
 ## 關於我們 About Us
 
@@ -20,4 +27,4 @@
 
 [XiaTerShi YouTube](https://www.youtube.com/channel/UCPdpFDFOp3sPbZhRkaQVaQA)
 
-[XiaTerShi FaceBook](https://www.facebook.com/Tershi25648/)
+[XiaTerShi FaceBook](
