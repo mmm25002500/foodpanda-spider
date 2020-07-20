@@ -19,6 +19,8 @@ Usage: main.py [-h] [-v]
 
 -v ,--version 顯示腳本版本 show program's version number and exit
 
+## 截圖 ScreenShot
+<img src = "img/Workspace 1_393.png" width ="100px"/>
 ## 關於我們 About Us
 
 [Team Website](www.tershi.ml)
