@@ -34,3 +34,6 @@ for CityIndex in range(0,len(all_link)):				#印出所有城市連結 (單個)
 			for MainProductIndex in range(len(MainProduct)):				#索引計次
 				#print('\t\t'+MainProduct[MainProductIndex].text)			#測試印出
 				print('\t\t'+(MainProduct[MainProductIndex].text.replace('\n','')))	#印出產品
+				Price = StoreSp.find_all("span" , class_="price p-price")		#尋找價格
+				print(u"\t\t價格" + Price[MainProductIndex].text)			#印出價格
+
