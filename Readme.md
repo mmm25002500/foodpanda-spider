@@ -21,7 +21,7 @@ Usage: main.py [-h] [-v]
 
 ## 截圖 ScreenShot
 <img src = "img/Workspace 1_393.png" width ="600px"/>
-點擊看大圖
+點擊看大圖<br>
 ## 關於我們 About Us
 
 [Team Website](www.tershi.ml)
