@@ -9,7 +9,7 @@
 ```sudo apt install python python2 python3```<br>
 ```sudo pip install bs4 requests```<br>
 ```git clone https://github.com/mmm25002500/foodpanda-spider/```<br>
-```cd foodpanda-spider/```
+```cd foodpanda-spider/```<br>
 ```python main.py```
 ## 用法 Usage
 
