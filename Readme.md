@@ -9,7 +9,7 @@
 ```sudo apt install python python2 python3```<br>
 ```sudo pip install bs4 requests```<br>
 ```git clone https://github.com/mmm25002500/foodpanda-spider/```<br>
-```cd foodpanda-spider/```<br>
+```cd foodpanda-spider/```<br>https://www.facebook.com/Tershi25648
 ```python main.py```
 ## 用法 Usage
 
@@ -31,4 +31,4 @@ Usage: main.py [-h] [-v]
 
 [XiaTerShi YouTube](https://www.youtube.com/channel/UCPdpFDFOp3sPbZhRkaQVaQA)
 
-[XiaTerShi FaceBook](
+[XiaTerShi FaceBook](https://www.facebook.com/Tershi25648)
