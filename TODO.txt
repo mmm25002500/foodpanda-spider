@@ -1,0 +1,7 @@
+# TODO: 1. Create Licence
+# TODO: 2. Rewrite the code
+# TODO: 3. Add More Image shows
+# TODO: 4. Rewrite the Readme.md
+# TODO: 5. Build a Applicaion
+# TODO: 6. Add more Feature such as Uber Eats support
+# TODO: 7. Add Contributor
